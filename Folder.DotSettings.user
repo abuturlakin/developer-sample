@@ -1,0 +1,25 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=41fbfb5e_002D0547_002D4616_002Da552_002Dde8318ed4697/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CanBindAndGetService" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::D2C7315B-DB66-3A3C-EA10-9B14F802EC4F::net6.0::DeveloperSample.Container.ContainerTest.CanBindAndGetService&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D2C7315B-DB66-3A3C-EA10-9B14F802EC4F::net6.0::DeveloperSample.Algorithms.AlgorithmTest.CanGetFactorial&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D2C7315B-DB66-3A3C-EA10-9B14F802EC4F::net6.0::DeveloperSample.Algorithms.AlgorithmTest.CanFormatSeparators&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D2C7315B-DB66-3A3C-EA10-9B14F802EC4F::net6.0::DeveloperSample.ClassRefactoring.ClassRefactorTest.AfricanSwallowHasCorrectSpeed&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D2C7315B-DB66-3A3C-EA10-9B14F802EC4F::net6.0::DeveloperSample.ClassRefactoring.ClassRefactorTest.LadenAfricanSwallowHasCorrectSpeed&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D2C7315B-DB66-3A3C-EA10-9B14F802EC4F::net6.0::DeveloperSample.ClassRefactoring.ClassRefactorTest.EuropeanSwallowHasCorrectSpeed&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D2C7315B-DB66-3A3C-EA10-9B14F802EC4F::net6.0::DeveloperSample.ClassRefactoring.ClassRefactorTest.LadenEuropeanSwallowHasCorrectSpeed&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D2C7315B-DB66-3A3C-EA10-9B14F802EC4F::net6.0::DeveloperSample.ClassRefactoring.ClassRefactorTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D2C7315B-DB66-3A3C-EA10-9B14F802EC4F::net6.0::DeveloperSample.Syncing.SyncTest.CanInitializeCollection&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D2C7315B-DB66-3A3C-EA10-9B14F802EC4F::net6.0::DeveloperSample.Syncing.SyncTest.ItemsOnlyInitializeOnce&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4acd236e_002Dc066_002D42cb_002D91a2_002D594ac1ffa4c7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CanFormatSeparators" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::D2C7315B-DB66-3A3C-EA10-9B14F802EC4F::net6.0::DeveloperSample.Algorithms.AlgorithmTest.CanFormatSeparators&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D2C7315B-DB66-3A3C-EA10-9B14F802EC4F::net6.0::DeveloperSample.Syncing.SyncTest.ItemsOnlyInitializeOnce&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D2C7315B-DB66-3A3C-EA10-9B14F802EC4F::net6.0::DeveloperSample.Syncing.SyncTest.CanInitializeCollection&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D2C7315B-DB66-3A3C-EA10-9B14F802EC4F::net6.0::DeveloperSample.Algorithms.AlgorithmTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D2C7315B-DB66-3A3C-EA10-9B14F802EC4F::net6.0::DeveloperSample.ClassRefactoring.ClassRefactorTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D2C7315B-DB66-3A3C-EA10-9B14F802EC4F::net6.0::DeveloperSample.Container.ContainerTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
